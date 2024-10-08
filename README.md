@@ -1,5 +1,5 @@
 # Hi, I’m Ngoza 👋
-I'm a full-stack developer from Zambia. I discovered a love for coding when I realized it was the perfect blend of my creative and technical interests.
+I'm a full-stack developer from Zambia. I discovered a love for coding when I realized it provided the perfect combination of my creative and technical interests.
 
 ## My tech stack includes:
 
