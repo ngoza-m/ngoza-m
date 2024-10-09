@@ -1,5 +1,5 @@
 # Hi, I’m Ngoza 👋
-I'm a full-stack developer from Zambia. I discovered a love for coding when I realized it provided the perfect combination of my creative and technical interests.
+I'm a junior full-stack developer from Zambia. I discovered a love for coding when I realized it provided the perfect combination of my creative and technical interests. Recently completed an intensive web development bootcamp at Le Wagon and honed skills in Ruby, Ruby on Rails, JavaScript, HTML and CSS.
 
 ## My tech stack includes:
 
